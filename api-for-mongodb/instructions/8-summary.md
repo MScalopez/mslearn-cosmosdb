@@ -27,6 +27,7 @@ For more information about the topics discussed in this module, see:
 - [Provision database, container or autoscale throughput on Azure Cosmos DB API for MongoDB resources][/azure/cosmos-db/mongodb/how-to-provision-throughput-mongodb]
 - [CosmosClient.GetDatabase(String) Method][/dotnet/api/microsoft.azure.cosmos.cosmosclient.getdatabase?view=azure-dotnet]
 - [APIForMongoDBQuickstart-WebAPI GitHub example][/Azure/azure-cosmos-dotnet-templates/tree/main/Templates/APIForMongoDBQuickstart-WebAPI]
+- [Use MongoDB extension commands to manage data stored in Azure Cosmos DB’s API for MongoDB][/azure/cosmos-db/mongodb/custom-commands]
 
 [/azure/cosmos-db/mongodb/mongodb-introduction]: https://docs.microsoft.com/azure/cosmos-db/mongodb/mongodb-introduction
 [/azure/cosmos-db/mongodb/estimate-ru-capacity-planner]: https://docs.microsoft.com/azure/cosmos-db/mongodb/estimate-ru-capacity-planner
@@ -44,3 +45,4 @@ For more information about the topics discussed in this module, see:
 [/azure/cosmos-db/mongodb/how-to-provision-throughput-mongodb]: https://docs.microsoft.com/azure/cosmos-db/mongodb/how-to-provision-throughput-mongodb
 [/dotnet/api/microsoft.azure.cosmos.cosmosclient.getdatabase?view=azure-dotnet]: https://docs.microsoft.com/dotnet/api/microsoft.azure.cosmos.cosmosclient.getdatabase?view=azure-dotnet
 [/Azure/azure-cosmos-dotnet-templates/tree/main/Templates/APIForMongoDBQuickstart-WebAPI]: https://github.com/Azure/azure-cosmos-dotnet-templates/tree/main/Templates/APIForMongoDBQuickstart-WebAPI
+[/azure/cosmos-db/mongodb/custom-commands]: https://docs.microsoft.com/azure/cosmos-db/mongodb/custom-commands
